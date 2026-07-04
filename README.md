@@ -1,2 +1,6 @@
-# midwestprocurementsolutions-website
-Official website for Midwest Procurement Solutions LLC
+# Midwest Procurement Solutions LLC Website
+
+Cloudflare Pages settings:
+- Framework preset: None
+- Build command: leave blank
+- Build output directory: /
