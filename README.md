@@ -1,6 +1,1 @@
-# Midwest Procurement Solutions LLC Website
-
-Cloudflare Pages settings:
-- Framework preset: None
-- Build command: leave blank
-- Build output directory: /
+Cloudflare Pages settings: Framework preset None, Build command blank, Build output directory /.
