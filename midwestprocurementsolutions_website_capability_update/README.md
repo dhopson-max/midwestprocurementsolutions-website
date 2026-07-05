@@ -1,0 +1,1 @@
+Cloudflare Pages settings: Framework preset None, Build command blank, Build output directory /.
